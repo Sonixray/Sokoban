@@ -1,4 +1,5 @@
 import random
+import pygame
 from copy import deepcopy
 
 class Niveau:
