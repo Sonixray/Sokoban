@@ -1,0 +1,5 @@
+= Sokoban
+
+My sokoban game in pygame, made with a friend (Azertex)
+
+**Don't forget to install pygame to enjoy the game :D**
